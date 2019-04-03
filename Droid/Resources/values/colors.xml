@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <color name="color_marine">#071a57</color>
+    <color name="color_coolGrey">#9a9ea6</color>
+    <color name="color_coolGreyAlt">#9b9b9b</color>
+    <color name="color_robinSEggBlue">#a4d7f1</color>
+    <color name="color_paleGreyTwo">#dfe1e6</color>
+    <color name="color_paleGrey">#f7f8fa</color>
+    <color name="color_grey">#808080</color>
+    <color name="color_orange">#ffa500</color>
+    <color name="color_veryLightGrey">#e6e6e6</color>
+    <color name="color_battleshipGrey">#737780</color>
+    <color name="color_actionGrey">#99000000</color>
+    <color name="color_lightGreyBlue">#a1d6ca</color>
+    <color name="color_palePurple">#c6b1e5</color>
+    <color name="color_cherryRed">#d52b1e</color>
+    <color name="color_butterscotch">#facb3e</color>
+    <color name="color_veryLightPink">#fff8f8</color>
+    <color name="color_white">#ffffff</color>
+    <color name="color_offWhite">#fcfff6</color>
+    <color name="color_appleGreen">#78be20</color>
+    <color name="color_cerulean">#0085ca</color>
+    <color name="color_transaparentCerulean">#800085ca</color>
+    <color name="color_transparentWhite50pc">#80ffffff</color>
+    <color name="color_transparentWhite75pc">#bfffffff</color>
+    <color name="color_transparentWhite85pc">#d9ffffff</color>
+    <color name="color_blue">#003591</color>
+    <color name="yellowefb209">#efb209</color>
+    <color name="transparentwhite">#10ffffff</color>
+    <color name="affiliates_map_button_border_color">#80979797</color>
+    <color name="affiliates_map_button_background_color">#80f5f6f7</color>
+    <color name="affiliates_map_button_shadow_color">#19000000</color>
+    <color name="affiliate_number_white">#fefefe</color>
+    <color name="color_darkBlue">#242933</color>
+    <color name="color_tableViewSeparatorColor">#dfe1e6</color>
+    <color name="color_list_separator_background">#f5f6f7</color>
+    <color name="color_grey_brown">#b34a4a4a</color>
+</resources>

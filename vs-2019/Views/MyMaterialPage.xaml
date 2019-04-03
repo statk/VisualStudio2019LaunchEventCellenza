@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="vs2019.Views.MyMaterialPage">
+    <ContentPage.Content>
+        <StackLayout Spacing="20"
+                     Padding="10"
+                     BackgroundColor="White"
+                     VerticalOptions="CenterAndExpand">
+            <Label Text="Default" 
+                   Margin="0,0,0,-10" />
+            <Image Source="https://i.ytimg.com/vi/93ZU6j59wL4/maxresdefault.jpg"/>
+                <Button Text="Enabled" 
+                        HorizontalOptions="FillAndExpand" />
+                <Button Text="Open Essentials web view" 
+                        HorizontalOptions="FillAndExpand" 
+                        x:Name="EssentialButton"
+                        Visual="Material"
+                        Clicked="Handle_Clicked"/>
+            </StackLayout> 
+    </ContentPage.Content>
+</ContentPage>

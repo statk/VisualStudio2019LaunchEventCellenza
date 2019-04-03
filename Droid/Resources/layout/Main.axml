@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+        <ImageView android:id="@+id/vs_image_view"
+            android:layout_width="match_parent"
+                   android:layout_alignParentTop="true"
+                   android:layout_centerHorizontal="true"
+                   android:layout_height="100dp"/>
+    <TextView
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+		android:text="Hello from native page"
+        android:id="@+id/textView1"
+		android:gravity="center"/>
+    <Button android:id="@+id/myButton"
+            android:layout_width="match_parent" 
+            android:layout_height="wrap_content" 
+            android:text="Open Forms Page" 
+            android:layout_below="@id/textView1"/>
+    <Button android:id="@+id/FormsPage"
+            android:text="Go to the forms page"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/myButton"/>
+    
+</RelativeLayout>
+
